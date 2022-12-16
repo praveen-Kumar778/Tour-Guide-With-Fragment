@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tour Guide With Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="paradise">Paradise Beach, also known as Plage Paradiso,is situated in Chunnambar,10 k.m away from Pondicherry city,paradise beach is really a best spot for tourist attraction for its well maintained beaches and water sports.</string>
+    <string name="radhanagar_beach">This stunning beach on Havelock Island has avoided much of the devastation caused by the 2004 Indian Ocean earthquake and the accompanying tsunami.</string>
+    <string name="agonda_beach">It’s a great spot for sunbathing, relaxing and swimming, and the number of tourists is still relatively small. In the center of Agonda Beach,there is also a turtle center that protects precious olive ridley turtle eggs.</string>
+    <string name="palolem_beach">This beach is almost untouched and is home to both local fishermen and foreign tourists. Interestingly , it was featured in the movie The Bourne Supremacy (2004) as the home of Jason Bourne (Matt Damon) in Gore.</string>
+    <string name="varkala_beach">It is also known as Papanatham Beach, which means “to wash away sin. It is believed that soaking in the waters of Papanatham Beach will wash away all the sins of life.</string>
+    <string name="mandrem_beach">There are no restaurants or food facilities on this beautiful deserted beach , but the beach and sea are worth anything.</string>
+    <string name="cavelossim_beach">The city is the original residence of Goddess Shri Shantadurga located in Kawlem, one of the largest temples in the state . This beach has miles of golden sand and beautiful warm water.</string>
+    <string name="dhanushkodi_beach">Dhanushkodi, meaning “end of the arc”, is a ghost town at the southeastern tip of the Tamil Nadu island of Pamban and of great historical and religious significance to followers of Hinduism . Also, part of Sri Lanka (Jaffna) is visible from the tip of Dhanushkodi beach.</string>
+    <string name="baga_beach">Sure, Baga Beach in North Goa can be commercialized and bustling, but for the action buffs, it’s one of the liveliest beaches on the coast. Water sports, paragliding, beach huts, bars, clubs and gourmet restaurants, you’ll find it all there ! Today, Baga attracts a predominantly Indian crowd, who come for authentic music and discounted drinks along Tito’s Lane.</string>
+    <string name="tarkarli_beach">If you can’t get to the Andaman Islands, the area around Tarkarli Beach in southern Maharashtra is home to one of the best coral reefs on the Indian mainland. This area is still not on the tourist route and receives little foreign visitors, although it is attracting more and more domestic tourists. Simple homestays right on the beach are an interesting thing. People can often see locals cycling or walking carefree.</string>
+    <string name="monuments">Monuments</string>
+    <string name="places">Places</string>
+    <string name="beaches">Beaches</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="close">Close Navigation Drawer</string>
+    <string name="open">Open Navigation Drawer</string>
+</resources>

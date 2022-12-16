@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="176dp"
+    android:gravity="bottom"
+    android:background="#EF3C04">
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/news"
+        android:layout_marginStart="10dp"
+        android:contentDescription="Header Image"/>
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_marginStart="10dp"
+        android:textColor="@color/white"
+        android:text="Tour Guide App"/>
+    <TextView
+        android:id="@+id/subTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:layout_marginStart="10dp"
+        android:text="Guiding App For The Tourist"/>
+
+</LinearLayout>
